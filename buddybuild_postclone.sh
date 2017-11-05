@@ -5,4 +5,3 @@ if ! which swiftlint >/dev/null; then
 fi
 
 brew switch swiftlint 0.23.1
-brew link swiftlint
